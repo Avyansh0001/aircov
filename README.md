@@ -8,8 +8,7 @@
 ## Programming Languages
 `HTML`, `JavaScript` & `CSS`
 
-## Contributors
-Thanks for contributions: `-`
+
 
 ## Installation
 not needed
