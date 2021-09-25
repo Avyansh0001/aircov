@@ -1,5 +1,5 @@
 <p align="center">
-  <img width="100" src="https://raw.githubusercontent.com/elevenvac/elevenvac/master/Eleven_icon_higer_florence.png" alt="Eleven Icon">
+  <img width="100" src="https://cdn.discordapp.com/attachments/886275305415790592/890882966371332106/logo.png" alt="Eleven Icon">
 </p>
 
 ## Description
@@ -14,5 +14,5 @@ Thanks for contributions: `-`
 ## Installation
 not needed
 
-## Discord Server
-<a href="https://discord.gg/P578T3aYbj"><img src="http://invidget.switchblade.xyz/HWjPAAs9d3"/></a>
+## Contact
+<p><a href="mailto:dev@avyanshralph.xyz">Contact</a></p>
